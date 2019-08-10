@@ -1,0 +1,13 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":[ "DSSAT-CSM,","ArcGIS","Camtasia"]
+  },{
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "RStudio","Python","Windows","linux"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Manuals","Techinal Report","Event Organizer"]
+  }
+]
