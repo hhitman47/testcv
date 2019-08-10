@@ -1,4 +1,4 @@
-baseURL = "https://safish.github.io/"
+baseURL = "https://testcv.github.io/"
 languageCode = "en-us"
 title = "Safia Malik"
 theme = "hugo-resume-master"
